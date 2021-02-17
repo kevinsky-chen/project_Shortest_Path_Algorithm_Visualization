@@ -3,4 +3,4 @@ Using pygame to visualize Dijkstra's and A* path finding algorithm
 
 
 [![](http://img.youtube.com/vi/n52umGqP_Ec/0.jpg)](http://www.youtube.com/watch?v=n52umGqP_Ec "")
-# Click the thumbnail above to see the demo !!!
+## Click the thumbnail above to see the demo !!!
